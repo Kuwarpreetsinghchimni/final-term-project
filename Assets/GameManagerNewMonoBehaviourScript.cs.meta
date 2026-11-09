@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac1c943ae1e1d4df4866772d757351ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pieceCounter: {instanceID: 0}
+  - forestMonster: {instanceID: 0}
+  - restoredBridge: {fileID: 7347771846473192887, guid: 313dccf68d48c4d8da086609c214ba4b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
